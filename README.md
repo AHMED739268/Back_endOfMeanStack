@@ -142,10 +142,4 @@ A fully-featured e-commerce backend built with **Node.js**, **Express.js**, and 
 - Node.js installed
 - MongoDB Atlas account
 
-### 🧰 Steps
 
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/mostafamoknaa/MEAN-Project.git
-   cd e-commerce-backend
